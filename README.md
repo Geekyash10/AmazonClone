@@ -21,5 +21,5 @@ This project is a **responsive Amazon homepage Clone** built using HTML and CSS.
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/Geekyash10/AmazonClone.git
-   cd amazon-clone
+   cd AmazonClone
    Open index.html directly in your browser.
